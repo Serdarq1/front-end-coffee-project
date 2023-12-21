@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "name": "Iced Coffee",
+        "price": 4,
+        "description": "Our specially brewed coffee served over ice for a refreshing and bold coffee taste.",
+        "image": "../images/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "White Chocolate",
+        "price": 4,
+        "description": "Our perfectly roasted coffees are blended with our powders, steamed non-fat milk and topped with thick foam to create a delicious pick-me-up treat.", 
+        "image": "../images/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Brewed Coffee",
+        "price": 4,
+        "description": "Freshly pulled shots of espresso combined with hot water.",
+        "image": "../images/4.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Americano",
+        "price": 2.5,
+        "description": "One of our light, medium, dark, decaffeinated, or flavored brews of the day, brewed from only the top 1% of Arabica beans in the world.",
+        "image": "../images/3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cappucino",
+        "price": 2.5,
+        "description": "A freshly pulled shot of espresso layered with steamed whole milk and thick rich foam to offer a luxurious velvety texture and complex aroma.",
+        "image": "../images/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Espresso",
+        "price": 2.5,
+        "description": "Perfectly balanced with a golden crema, this intense espresso has a caramel like aroma, velvety body, earthy flavor and a bittersweet finish.",
+        "image": "../images/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Caramel Ice Blended",
+        "price": 6.5,
+        "description": "A sweet treat made from our delicious fresh espresso, signature powders, and milk is blended with ice then topped with whipped cream.",
+        "image": "../images/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hazelnut Pure Ice Blended",
+        "price": 6.5,
+        "description": "Non-fat milk blended with our signature powders and ice and then topped with whipped cream. A delicious non-caffeinated treat.",
+        "image": "../images/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Salted Toffee Ice Blended",
+        "price": 6.5,
+        "description": "Our signature espresso blended with rich, buttery toffee flavor and salty notes of our new Salted Toffee sauce to create a delicious indulgence.",
+        "image": "../images/9.jpg"
+    }
+    ,
+    {
+        "id": 10,
+        "name": "Black Tea",
+        "price": 1.5,
+        "description": "Like green and oolong teas, black tea comes from the Camellia sinensis plant. Its darker hue and stronger taste result from the greater level of oxidation it undergoes during processing. From delicate Darjeeling to strong Ceylon, each variety has distinct characteristics, making black tea a beloved beverage across the globe.",
+        "image": "../images/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Iced Tea Latte",
+        "price": 1.5,
+        "description": "A delicious blend of freshly pulled shots of concentrated tea leaves combined with our French Deluxe™ Vanilla powder over ice.",
+        "image": "../images/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Chai Tea Latte",
+        "price": 1.5,
+        "description": "A delicious blend of freshly pulled shots of concentrated tea leaves combined with steamed milk and our French Deluxe™ vanilla powder.",
+        "image": "../images/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Veranda Blend",
+        "price": 32,
+        "description": "In Latin America, coffee farms are often run by families, with their own homes on the same land where their coffee grows. We’ve sipped coffee with these farmers for decades, sitting on their verandas, overlooking the lush beauty of the coffee trees rolling out in the distance. Most times it was a lightly roasted coffee like this one. It took us more than 80 tries to get it right—mellow and flavorful with a nice softness.",
+        "image": "../images/13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Blonde Espresso Roast",
+        "price": 25,
+        "description": "Experience the lighter side of espresso—a soft, beautifully balanced flavor profile that pairs perfectly with milk (or your favorite nondairy alternative). Made up of select Latin American and East African beans, this blend is carefully roasted to coax out sweet, vibrant notes of candied apple and bittersweet chocolate. The result is smooth, well-rounded and versatile, delicious served hot or over ice.",
+        "image": "../images/14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Holiday Blend",
+        "price": 22,
+        "description": "Crafted with joyful celebrations in mind, Cafesa's Holiday Blend offers a balanced, sweet and toasty alchemy of bright Latin American beans with rich Sumatran coffee. Expertly roasted to highlight flavor nuances, each sip is full-bodied and vibrant. Layered notes of sweet maple and herbs balance the rich flavors of this celebratory cup.",
+        "image": "../images/15.jpg"
+    }
+    ,
+    {
+        "id": 16,
+        "name": "Italian Roast",
+        "price": 42,
+        "description": "This is Cafesa's quintessential dark roast—expertly crafted to bring out sweetness and intensity. It showcases the precision and skill of our roasters, who created a coffee slightly darker than our Espresso Roast without the smoky edge of French Roast. A great cup of coffee with enriched flavor.",
+        "image": "../images/16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Sumatra",
+        "price": 27,
+        "description": "Grown on a lush Indonesian island, this spicy coffee is truly one of a kind. We fell in love with Sumatran coffee in 1971, and it’s been one of our most treasured offerings ever since. The taste is distinctive and unmistakable—strikingly bold and full-bodied with rich herbals, rustic spice notes and a muted acidity.",
+        "image": "../images/17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Autumn Blend",
+        "price": 33,
+        "description": "Immerse yourself in the essence of fall with these captivating speckled stainless mugs.",
+        "image": "../images/18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Mug Pack",
+        "price": 40,
+        "description": "Upgrade your iced coffee game with colorful silicone cups perfect for beach days and getaways. BPA-free. Hand wash.",
+        "image": "../images/19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Black Mug",
+        "price": 15,
+        "description": "Warm colors and gold textures make your morning coffee routine that much richer.",
+        "image": "../images/20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Carton Cup",
+        "price": 8.5,
+        "description":  "Enjoy your favorite hot beverage on a cool winter morning with our 20 fl oz stainless-steel tumbler in rich copper.",
+        "image": "../images/21.jpg"
+    }
+    ,
+    {
+        "id": 22,
+        "name": "Mug With a Plate",
+        "price": 19,
+        "description": "Your desk will appreciate the silicone base and splash- resistant lid on our crisp white ceramic desktop mug.",
+        "image": "../images/22.jpg"
+    }
+    ,
+    {
+        "id": 23,
+        "name": "Thermos",
+        "price": 30,
+        "description": "Your desk will appreciate the silicone base and splash- resistant lid on our crisp white ceramic desktop mug.",
+        "image": "../images/23.jpg"
+    }
+    ,
+    {
+        "id": 24,
+        "name": "Blue Mug",
+        "price": 15,
+        "description": "Your desk will appreciate the silicone base and splash- resistant lid on our crisp white ceramic desktop mug.",
+        "image": "../images/24.jpg"
+    }
+
+    
+]
